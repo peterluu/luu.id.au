@@ -1,3 +1,3 @@
-# The Luu Family Network
+# Welcome
 
 Welcome to the Luu Family Network.
