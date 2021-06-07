@@ -1,4 +1,3 @@
 theme: jekyll-theme-minimal
 title: Luu Family Network
-logo: Luu_logo.png
-show_downloads: "false"
+show_downloads: false
