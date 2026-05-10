@@ -3,8 +3,6 @@
 
 @import "{{ site.theme }}";
 
-footer {
-  span.ribbon-inner {
-    padding: 1em;
-  }
+footer span.ribbon-inner {
+  padding: 1em;
 }
